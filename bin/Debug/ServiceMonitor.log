@@ -1,0 +1,5 @@
+2026-10-25 15:02:02 [INFO ] Monitoring MSSQL$SQL2025 every 30 second(s). Press Ctrl+C to stop.
+2026-10-25 15:02:02 [INFO ] MSSQL$SQL2025 initial status: Running
+2026-10-25 15:02:32 [INFO ] MSSQL$SQL2025 status changed: Running -> Stopped
+2026-10-25 15:02:32 [WARN ] Service has STOPPED: MSSQL$SQL2025 on DESKTOP-JH6O3I9
+2026-10-25 15:02:32 [ERROR] Failed to send alert email 'Service has STOPPED: MSSQL$SQL2025 on DESKTOP-JH6O3I9': Failure sending mail.

@@ -1,0 +1,7 @@
+C:\Users\Kondwani\Documents\Projects\ServiceMonitor\bin\Debug\ServiceMonitor.exe.config
+C:\Users\Kondwani\Documents\Projects\ServiceMonitor\bin\Debug\ServiceMonitor.exe
+C:\Users\Kondwani\Documents\Projects\ServiceMonitor\bin\Debug\ServiceMonitor.pdb
+C:\Users\Kondwani\Documents\Projects\ServiceMonitor\obj\Debug\ServiceMonitor.csproj.AssemblyReference.cache
+C:\Users\Kondwani\Documents\Projects\ServiceMonitor\obj\Debug\ServiceMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Kondwani\Documents\Projects\ServiceMonitor\obj\Debug\ServiceMonitor.exe
+C:\Users\Kondwani\Documents\Projects\ServiceMonitor\obj\Debug\ServiceMonitor.pdb
